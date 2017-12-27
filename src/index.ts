@@ -1,8 +1,9 @@
+import { User } from './user';
+
 function component() {
     var element = document.createElement('div');
-
-    // Lodash, now imported by this script
-    element.innerHTML = "Hi ES6.";
+    let user = new User('owen');
+    element.innerHTML = "Hi ES6. " + user.toString();
     return element;
 }
 
