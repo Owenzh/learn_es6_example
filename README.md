@@ -16,8 +16,8 @@
 **好了，基本的环境已经搭建完成!!**
 ----
 ## 如何运行
-1.npm i
-2.npm start
+1. npm i
+2. npm start
 >浏览器自动打开 http://127.0.0.1:3000
 ## ES6知识点汇总
 >通过个人的理解来用ts写一遍所用的es6的例子。本教程参考阮一峰先生的[ECMAScript 6 入门](http://es6.ruanyifeng.com/)
